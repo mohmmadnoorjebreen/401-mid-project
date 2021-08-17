@@ -37,3 +37,7 @@ Tasks identified by features, each feature in the project is a task, and each ta
 ## Git Process
 
 All component will be included in live on github.The repository will be shared by adding all team members to the private organization, each person on the team will create its own branches and then push them to the github, and if there are no conflicts, these branches will be merged with the main one. We will use a PR review workflow and all of our members must review a PR but the merge it will be for team leader only, and we merge when all things are working well.
+
+
+
+added from abdalmajeed  laptop
