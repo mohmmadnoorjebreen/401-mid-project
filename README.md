@@ -40,5 +40,4 @@ All component will be included in live on github.The repository will be shared b
 
 
 
-added from abdalmajeed  laptop
-second addition 
+removing the old additions
